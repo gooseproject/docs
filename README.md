@@ -1,0 +1,4 @@
+docs
+====
+
+GoOSe Project Documentation
