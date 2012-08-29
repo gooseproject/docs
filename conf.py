@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'GoOSe Project'
-copyright = u'CC-BY-SA, see AUTHORS for more detail'
+copyright = u'GoOSe Project Contributors'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
