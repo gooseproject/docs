@@ -67,7 +67,7 @@ The GoOSe buildroot for the dist-g6-build tag is approximately 91 packages for b
 
 Getting the buildroot correct is imperative to the success of the release you are building. Luckily, if you don't get it right the first time, you can try, try again. **Everything must be built from source**. It is very important **NOT** to violate any laws or copyrights. Importing packages should *only* be done if they have previously been built from source elsewhere. However, it is *highly* recommended to build from source wherever possible.
 
-Authors and Copywrite
+Authors and Copyright
 ---------------------
 - Clint Savage
 - Zach Oglesby
