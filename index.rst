@@ -12,6 +12,5 @@ Contents:
    :maxdepth: 2
 
    rebuild
-   AUTHORS
 
 
